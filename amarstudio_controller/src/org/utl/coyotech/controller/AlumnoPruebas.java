@@ -16,6 +16,7 @@ public class AlumnoPruebas {
         //        probarInsertar();
         //          probarModifyAlumno();
         probarGetAll();
+        System.out.println("Hola estoy probando git");
 
     }
 
